@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
-  "notes": "Release 1.1.4",
-  "pub_date": "2026-03-25T22:05:14Z",
-  "binaryPath": "releases/app_1.1.4_x64.exe",
-  "installerPath": "releases/app_1.1.4_x64.exe",
-  "signaturePath": "releases/app_1.1.4_x64.exe.sig"
+  "version": "1.1.5",
+  "notes": "Release 1.1.5",
+  "pub_date": "2026-03-25T22:14:51Z",
+  "binaryPath": "releases/app_1.1.5_x64.exe",
+  "installerPath": "releases/app_1.1.5_x64.exe",
+  "signaturePath": "releases/app_1.1.5_x64.exe.sig"
 }
