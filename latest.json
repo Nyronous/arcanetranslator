@@ -1,7 +1,7 @@
 {
-  "version": "1.0",
-  "notes": "Primeira versão para teste do updater personalizado.",
-  "pub_date": "2026-03-25T00:00:00Z",
-  "installerPath": "releases/app_1.0_x64-setup.exe",
-  "signaturePath": "releases/app_1.0_x64-setup.exe.sig"
+    "version":  "1.0.2",
+    "notes":  "Release 1.0.2",
+    "pub_date":  "2026-03-25T19:27:02Z",
+    "installerPath":  "releases/app_1.0.2_x64-setup.exe",
+    "signaturePath":  "releases/app_1.0.2_x64-setup.exe.sig"
 }
