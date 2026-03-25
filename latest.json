@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "notes": "Release 1.0.7",
-  "pub_date": "2026-03-25T20:07:36Z",
-  "installerPath": "releases/app_1.0.7_x64-setup.exe",
-  "signaturePath": "releases/app_1.0.7_x64-setup.exe.sig"
+  "version": "1.0.8",
+  "notes": "Release 1.0.8",
+  "pub_date": "2026-03-25T20:14:33Z",
+  "installerPath": "releases/app_1.0.8_x64-setup.exe",
+  "signaturePath": "releases/app_1.0.8_x64-setup.exe.sig"
 }
