@@ -1,9 +1,9 @@
 {
-  "version": "1.1.9",
-  "notes": "Release 1.1.9",
-  "pub_date": "2026-03-25T23:36:17Z",
-  "binaryPath": "releases/ProjetoTauri_1.1.9_x64.exe",
-  "installerPath": "releases/ProjetoTauri_1.1.9_x64.exe",
-  "signaturePath": "releases/ProjetoTauri_1.1.9_x64.exe.sig",
+  "version": "1.2.0",
+  "notes": "Release 1.2.0",
+  "pub_date": "2026-03-26T00:11:01Z",
+  "binaryPath": "releases/ProjetoTauri_1.2.0_x64.exe",
+  "installerPath": "releases/ProjetoTauri_1.2.0_x64.exe",
+  "signaturePath": "releases/ProjetoTauri_1.2.0_x64.exe.sig",
   "executableName": "ProjetoTauri.exe"
 }
