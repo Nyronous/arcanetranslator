@@ -1,9 +1,9 @@
 {
-  "version": "1.2.2",
-  "notes": "Release 1.2.2",
-  "pub_date": "2026-03-26T00:19:44Z",
-  "binaryPath": "releases/ProjetoTauri_1.2.2_x64.exe",
-  "installerPath": "releases/ProjetoTauri_1.2.2_x64.exe",
-  "signaturePath": "releases/ProjetoTauri_1.2.2_x64.exe.sig",
-  "executableName": "ProjetoTauri.exe"
+  "version": "1.0.0",
+  "notes": "Release 1.0.0",
+  "pub_date": "2026-03-26T01:01:18Z",
+  "binaryPath": "releases/arcanetranslator-toolki_1.0.0_x64.exe",
+  "installerPath": "releases/arcanetranslator-toolki_1.0.0_x64.exe",
+  "signaturePath": "releases/arcanetranslator-toolki_1.0.0_x64.exe.sig",
+  "executableName": "arcanetranslator-toolki.exe"
 }
