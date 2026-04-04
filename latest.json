@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
-  "notes": "Release 1.0.4",
-  "pub_date": "2026-04-03T01:50:36Z",
-  "binaryPath": "releases/arcanetranslator-toolki_1.0.4_x64.exe",
-  "installerPath": "releases/arcanetranslator-toolki_1.0.4_x64.exe",
-  "signaturePath": "releases/arcanetranslator-toolki_1.0.4_x64.exe.sig",
-  "executableName": "arcanetranslator-toolki.exe"
+  "version": "1.0.8",
+  "notes": "Release 1.0.8",
+  "pub_date": "2026-04-04T14:44:10Z",
+  "binaryPath": "releases/arcane-toolkit_1.0.8_x64.exe",
+  "installerPath": "releases/arcane-toolkit_1.0.8_x64.exe",
+  "signaturePath": "releases/arcane-toolkit_1.0.8_x64.exe.sig",
+  "executableName": "arcane-toolkit.exe"
 }
