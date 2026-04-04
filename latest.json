@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
-  "notes": "Release 1.0.8",
-  "pub_date": "2026-04-04T14:44:10Z",
-  "binaryPath": "releases/arcane-toolkit_1.0.8_x64.exe",
-  "installerPath": "releases/arcane-toolkit_1.0.8_x64.exe",
-  "signaturePath": "releases/arcane-toolkit_1.0.8_x64.exe.sig",
+  "version": "1.0.9",
+  "notes": "Release 1.0.9",
+  "pub_date": "2026-04-04T15:15:40Z",
+  "binaryPath": "releases/arcane-toolkit_1.0.9_x64.exe",
+  "installerPath": "releases/arcane-toolkit_1.0.9_x64.exe",
+  "signaturePath": "releases/arcane-toolkit_1.0.9_x64.exe.sig",
   "executableName": "arcane-toolkit.exe"
 }
